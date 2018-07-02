@@ -1,7 +1,8 @@
-# Bitwyre's Database Server
+# Bitwyre Database Server
 
-This server is a REST server with a thin wrapper to MongoDB.
+This is a thin wrapper on top of the Mongo-CXX-driver
+that supports operations specific for exchange purposes.
 
-```bash
-./bitwyre-database-server
-```
+# Copyright
+
+Copyright 2018, Bitwyre Technologies LLC
